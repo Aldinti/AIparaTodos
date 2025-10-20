@@ -1,3 +1,124 @@
+# 🧠 AIparaTodos – Licencia dual (CC BY-SA 4.0 + MIT License)
+
+---
+
+## 🇪🇸 **Sección 1: Contenido documental y educativo**
+
+### Licencia Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)
+
+Este proyecto, **AIparaTodos**, incluyendo toda su documentación, propuestas jurídicas, material educativo, textos, gráficos y recursos no programáticos, está protegido por la licencia **Creative Commons Atribución–CompartirIgual 4.0 Internacional (CC BY-SA 4.0)**.
+
+Usted es libre de:
+* **Compartir** — copiar y redistribuir el material en cualquier medio o formato.
+* **Adaptar** — remezclar, transformar y construir a partir del material para cualquier propósito, incluso comercial.
+
+Bajo las siguientes condiciones:
+* **Atribución:** Debe otorgar el crédito apropiado, incluir un enlace a la licencia e indicar si se realizaron cambios.
+* **CompartirIgual:** Si remezcla o transforma el material, debe distribuir su contribución bajo la misma licencia.
+* **Sin restricciones adicionales:** No puede aplicar términos legales o medidas tecnológicas que restrinjan los usos permitidos.
+
+📄 Texto completo de la licencia: [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+
+---
+
+## 🇬🇧 **Section 1: Documentation and Educational Content**
+
+### License: Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)
+
+This project, **AIparaTodos**, including all its documentation, legal proposals, educational materials, texts, graphics, and non-code resources, is licensed under the **Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)** license.
+
+You are free to:
+* **Share** — copy and redistribute the material in any medium or format.
+* **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+* **Attribution:** You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+* **ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
+* **No additional restrictions:** You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+📄 Full license text: [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+
+---
+
+## 🇪🇸 **Sección 2: Código fuente y componentes de software**
+
+### Licencia MIT
+
+El código fuente y los componentes de software ubicados en el directorio `/codigo_abierto` de este repositorio están cubiertos por la **Licencia MIT**.
+
+```
+MIT License
+
+Copyright (c) 2025 Aldo B. Patiño F.
+
+Por la presente se concede permiso, sin cargo, a cualquier persona que obtenga una copia
+de este software y de los archivos de documentación asociados (el "Software"), para tratar
+el Software sin restricción, incluyendo sin limitación los derechos a usar, copiar, modificar,
+fusionar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las
+personas a las que se les proporcione el Software que lo hagan, sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes
+sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA,
+INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO
+PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE LOS DERECHOS SERÁN
+RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN
+DE CONTRATO, AGRAVIO O DE OTRO MODO, QUE SURJA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U
+OTRAS INTERACCIONES EN EL SOFTWARE.
+```
+
+---
+
+## 🇬🇧 **Section 2: Source Code and Software Components**
+
+### MIT License
+
+The source code and software components located in the `/codigo_abierto` directory of this repository are covered by the **MIT License**.
+
+```
+MIT License
+
+Copyright (c) 2025 Aldo B. Patiño F.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
+
+## 🧩 **Notas adicionales**
+* Cualquier contribución enviada a este repositorio se considerará publicada bajo las mismas licencias.
+* Se reconoce el derecho moral de autor de cada contribuyente, conforme a la legislación colombiana e internacional.
+* AIparaTodos promueve el principio de **“código y conocimiento como bienes comunes”**, en línea con el **artículo 70** de la Constitución Política de Colombia.
+
+---
+
+## ✍️ Autor principal
+
+**Aldo B. Patiño F.**
+Creador y coordinador del proyecto **AIparaTodos**
+Ingeniero de Sistemas | Mg. en Big Data y Análisis de Datos (en formación)
+📧 [aldopati@gmail.com]
+🔗 GitHub: [Aldinti]
+
+---
+
 Creative Commons Legal Code
 
 CC0 1.0 Universal
