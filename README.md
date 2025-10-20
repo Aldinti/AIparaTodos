@@ -1,2 +1,2 @@
 # AIparaTodos
-Por una inteligencia artificial humana, ética y abierta para humanidad
+Por una inteligencia artificial ética, humana y abierta para humanidad
