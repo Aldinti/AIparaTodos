@@ -66,7 +66,7 @@ Puedes participar de las siguientes formas:
 1. Haz un **fork** de este repositorio.
 2. Crea una rama con tu aporte (`git checkout -b tu-aporte`).
 3. Realiza los cambios y envía un **pull request**.
-4. Agrega tu nombre y rol en el archivo `CONTRIBUTORES.md`.
+4. Agrega tu nombre y rol en el archivo `CONTRIBUTORS.md`.
 
 ---
 ## 💡 **Llamado a la acción**
